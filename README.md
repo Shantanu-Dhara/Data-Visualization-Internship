@@ -210,12 +210,4 @@ An interactive dashboard allowing users to filter and explore data easily 📊�
 
 ---
 
-## 📂 Final Submission
-
-All task files (`Task1_Gender_Distribution.xlsx` through `Task6_Dashboard.xlsx`) have been compiled and submitted as per the internship guidelines.
-
----
-
 Feel free to explore the repository and connect with me on [LinkedIn](https://www.linkedin.com/in/shantanu-dhara/) to discuss data-driven insights and visualization techniques!
-
----
